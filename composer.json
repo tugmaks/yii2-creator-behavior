@@ -1,0 +1,21 @@
+{
+    "name": "tugmaks/yii2-creator-behavior",
+    "description": "Creator behavior for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","behavior"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tugmaks",
+            "email": "tugmaks@ya.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tugmaks\\behaviors\\": ""
+        }
+    }
+}
